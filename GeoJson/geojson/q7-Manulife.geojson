@@ -1,0 +1,87 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-ide",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2020-08-27T10:45:03Z",
+  "features": [
+    {
+     "type": "Feature",
+      "properties": {
+        "@id": "way/289854250",
+        "addr:city": "Ho Chi Minh City",
+        "addr:district": "7",
+        "addr:housenumber": "75",
+        "addr:street": "Hoàng Văn Thái",
+        "building": "commercial",
+        "building:levels": "22",
+        "height": 66,
+        "name": "Manulife",
+        "name:vi": "Manulife"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.7230821,
+              10.7304314
+            ],
+            [
+              106.7229606,
+              10.7306467
+            ],
+            [
+              106.7224667,
+              10.7303777
+            ],
+            [
+              106.7225882,
+              10.7301623
+            ],
+            [
+              106.7230821,
+              10.7304314
+            ]
+          ]
+        ]
+      },
+      "id": "way/289854250"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/289854251",
+        "building": "commercial",
+        "name": "Manulife"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.72239,
+              10.7300269
+            ],
+            [
+              106.7222703,
+              10.7302082
+            ],
+            [
+              106.7219912,
+              10.7300302
+            ],
+            [
+              106.7221109,
+              10.729849
+            ],
+            [
+              106.72239,
+              10.7300269
+            ]
+          ]
+        ]
+      },
+      "id": "way/289854251"
+    }
+  ]
+}

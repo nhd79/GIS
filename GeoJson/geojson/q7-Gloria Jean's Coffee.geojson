@@ -1,0 +1,40 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-ide",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2020-08-27T10:45:03Z",
+  "features": [
+    {
+     "type": "Feature",
+      "properties": {
+        "@id": "node/1987338699",
+        "amenity": "cafe",
+        "cuisine": "coffee_shop",
+        "name": "Gloria Jean's Coffee"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.718191,
+          10.7280573
+        ]
+      },
+      "id": "node/1987338699"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2915480055",
+        "amenity": "parking_entrance"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7193697,
+          10.7287512
+        ]
+      },
+      "id": "node/2915480055"
+    }
+  ]
+}

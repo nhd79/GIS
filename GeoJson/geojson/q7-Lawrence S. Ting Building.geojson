@@ -1,0 +1,86 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-ide",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2020-08-27T10:45:03Z",
+  "features": [
+    {
+     "type": "Feature",
+      "properties": {
+        "@id": "way/289924758",
+        "building": "commercial",
+        "building:levels": "15",
+        "height": 45,
+        "name": "Lawrence S. Ting Building"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+           [
+            [
+              106.7205899,
+              10.7302833
+            ],
+            [
+              106.7203616,
+              10.7306406
+            ],
+            [
+              106.7200128,
+              10.7304539
+            ],
+            [
+              106.7200546,
+              10.7303876
+            ],
+            [
+              106.720013,
+              10.730365
+            ],
+            [
+              106.7200723,
+              10.7302598
+            ],
+            [
+              106.7201192,
+              10.7302868
+            ],
+            [
+              106.7201334,
+              10.7302589
+            ],
+            [
+              106.7201768,
+              10.7302846
+            ],
+            [
+              106.7202156,
+              10.7302233
+            ],
+            [
+              106.7202749,
+              10.7302607
+            ],
+            [
+              106.7203006,
+              10.7302195
+            ],
+            [
+              106.7203554,
+              10.7302525
+            ],
+            [
+              106.7204116,
+              10.730167
+            ],
+            [
+              106.7205899,
+              10.7302833
+            ]
+          ]
+        ]
+      },
+      "id": "way/289924758"
+    }
+  ]
+}

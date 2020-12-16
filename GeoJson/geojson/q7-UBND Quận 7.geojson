@@ -1,0 +1,45 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-ide",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2020-08-27T10:45:03Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/223360206",
+        "amenity": "public_building",
+        "building": "yes",
+        "name": "UBND Quận 7"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+           [
+            [
+              106.7260142,
+              10.732539
+            ],
+            [
+              106.7264916,
+              10.7317484
+            ],
+            [
+              106.7272804,
+              10.7322124
+            ],
+            [
+              106.7267974,
+              10.7329711
+            ],
+            [
+              106.7260142,
+              10.732539
+            ]
+          ]
+        ]
+      },
+      "id": "way/223360206"
+    }
+  ]
+}

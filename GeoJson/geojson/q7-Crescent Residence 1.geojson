@@ -1,0 +1,94 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-ide",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2020-08-27T10:45:03Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/243154153",
+        "addr:city": "Ho Chi Minh City",
+        "addr:housename": "Crescent Residence 1",
+        "addr:housenumber": "103",
+        "addr:street": "Tôn Dật Tiên",
+        "building": "apartments",
+        "building:levels": "5",
+        "height": 15,
+        "name": "Crescent Residence 1"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.7190935,
+              10.7276961
+            ],
+            [
+              106.7196078,
+              10.7274286
+            ],
+            [
+              106.7198089,
+              10.7275445
+            ],
+            [
+              106.7199276,
+              10.7276057
+            ],
+            [
+              106.7198821,
+              10.7276908
+            ],
+            [
+              106.7196729,
+              10.7278753
+            ],
+            [
+              106.7195495,
+              10.7277804
+            ],
+            [
+              106.7194637,
+              10.7278226
+            ],
+            [
+              106.7192813,
+              10.7278964
+            ],
+            [
+              106.7190774,
+              10.7280176
+            ],
+            [
+              106.7189228,
+              10.7282627
+            ],
+            [
+              106.7183004,
+              10.7278837
+            ],
+            [
+              106.7183532,
+              10.7278015
+            ],
+            [
+              106.7184981,
+              10.7277909
+            ],
+            [
+              106.7187877,
+              10.727754
+            ],
+            [
+              106.7190935,
+              10.7276961
+            ]
+          ]
+        ]
+      },
+      "id": "way/243154153"
+    }
+  ]
+}

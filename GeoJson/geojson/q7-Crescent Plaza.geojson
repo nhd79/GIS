@@ -1,0 +1,89 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-ide",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2020-08-27T10:45:03Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/247261925",
+        "addr:city": "Ho Chi Minh City",
+        "addr:housenumber": "105",
+        "addr:street": "Tôn Dật Tiên",
+        "building": "commercial",
+        "building:levels": "6",
+        "height": 18,
+        "name": "Crescent Plaza"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.7203364,
+              10.7265893
+            ],
+            [
+              106.7204429,
+              10.7266481
+            ],
+            [
+              106.7207086,
+              10.7267949
+            ],
+            [
+              106.7202534,
+              10.7275597
+            ],
+            [
+              106.7201332,
+              10.7274906
+            ],
+            [
+              106.7200608,
+              10.7274432
+            ],
+            [
+              106.7198945,
+              10.727351
+            ],
+            [
+              106.7199897,
+              10.72726
+            ],
+            [
+              106.7201252,
+              10.7270835
+            ],
+            [
+              106.7202057,
+              10.7269477
+            ],
+            [
+              106.7202419,
+              10.72687
+            ],
+            [
+              106.7202767,
+              10.726783
+            ],
+            [
+              106.7202942,
+              10.7267264
+            ],
+            [
+              106.7203103,
+              10.7266724
+            ],
+            [
+              106.7203364,
+              10.7265893
+            ]
+          ]
+        ]
+      },
+      "id": "way/247261925"
+    }
+  ]
+}

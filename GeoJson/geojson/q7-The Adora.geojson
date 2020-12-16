@@ -1,0 +1,47 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-ide",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2020-08-27T10:45:03Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/225644941",
+        "amenity": "restaurant",
+        "building": "yes",
+        "building:levels": "15",
+        "height": 45,
+        "name": "The Adora"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+           [
+            [
+              106.7196404,
+              10.7301947
+            ],
+            [
+              106.7199806,
+              10.7296431
+            ],
+            [
+              106.7201713,
+              10.7297567
+            ],
+            [
+              106.7198311,
+              10.7303083
+            ],
+            [
+              106.7196404,
+              10.7301947
+            ]
+          ]
+        ]
+      },
+      "id": "way/225644941"
+    }
+  ]
+}

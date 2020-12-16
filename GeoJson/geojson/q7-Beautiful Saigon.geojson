@@ -1,0 +1,72 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-ide",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2020-08-27T10:45:03Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/287996316",
+        "building": "yes",
+        "name": "Beautiful Saigon"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+           [
+            [
+              106.7200727,
+              10.7288126
+            ],
+            [
+              106.7200539,
+              10.7288416
+            ],
+            [
+              106.7200325,
+              10.7288469
+            ],
+            [
+              106.720011,
+              10.728839
+            ],
+            [
+              106.7198206,
+              10.7287098
+            ],
+            [
+              106.7198547,
+              10.7286618
+            ],
+            [
+              106.7198734,
+              10.7286743
+            ],
+            [
+              106.7199816,
+              10.7284938
+            ],
+            [
+              106.7201813,
+              10.7286068
+            ],
+            [
+              106.720161,
+              10.7286398
+            ],
+            [
+              106.7201827,
+              10.7286528
+            ],
+            [
+              106.7200727,
+              10.7288126
+            ]
+          ]
+        ]
+      },
+      "id": "way/287996316"
+    }
+  ]
+}

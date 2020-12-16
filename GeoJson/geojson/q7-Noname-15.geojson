@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-ide",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2020-08-27T10:45:03Z",
+  "features": [
+    
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/289924752",
+        "building": "yes",
+        "building:levels": "15",
+        "height": 45
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.7203418,
+              10.7290585
+            ],
+            [
+              106.7202801,
+              10.7290217
+            ],
+            [
+              106.720264,
+              10.7289531
+            ],
+            [
+              106.7205269,
+              10.7285209
+            ],
+            [
+              106.7205564,
+              10.7284999
+            ],
+            [
+              106.7205832,
+              10.7285078
+            ],
+            [
+              106.7206342,
+              10.7285447
+            ],
+            [
+              106.7206422,
+              10.7285736
+            ],
+            [
+              106.7203418,
+              10.7290585
+            ]
+          ]
+        ]
+      },
+      "id": "way/289924752"
+    }
+  ]
+}

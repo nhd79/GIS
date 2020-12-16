@@ -1,0 +1,48 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-ide",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2020-08-27T10:45:03Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/188114201",
+        "amenity": "restaurant",
+        "building": "yes",
+        "building:levels": "15",
+        "height": 45,
+        "cuisine": "chinese",
+        "name": "Ming"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+           [
+            [
+              106.7203345,
+              10.7296875
+            ],
+            [
+              106.7199899,
+              10.7294779
+            ],
+            [
+              106.7201603,
+              10.7292075
+            ],
+            [
+              106.7205049,
+              10.7294172
+            ],
+            [
+              106.7203345,
+              10.7296875
+            ]
+          ]
+        ]
+      },
+      "id": "way/188114201"
+    }
+  ]
+}

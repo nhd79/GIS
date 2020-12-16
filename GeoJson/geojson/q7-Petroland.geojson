@@ -1,0 +1,52 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-ide",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2020-08-27T10:45:03Z",
+  "features": [
+    {
+     "type": "Feature",
+      "properties": {
+        "@id": "way/188114100",
+        "addr:city": "Ho Chi Minh City",
+        "addr:district": "7",
+        "addr:housenumber": "12",
+        "addr:street": "Tân Trào",
+        "addr:subdistrict": "Phường Tân Phú",
+        "building": "office",
+        "building:levels": "22",
+        "height": 66,
+        "name": "PVFC",
+        "name:vi": "Tòa Nhà Petroland"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.7234886,
+              10.7296166
+            ],
+            [
+              106.7231373,
+              10.7294065
+            ],
+            [
+              106.7233394,
+              10.7290802
+            ],
+            [
+              106.7236907,
+              10.7292903
+            ],
+            [
+              106.7234886,
+              10.7296166
+            ]
+          ]
+        ]
+      },
+      "id": "way/188114100"
+    }
+  ]
+}

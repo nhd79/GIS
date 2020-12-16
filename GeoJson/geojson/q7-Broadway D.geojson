@@ -1,0 +1,50 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-ide",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2020-08-27T10:45:03Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/189082649",
+        "addr:city": "Ho Chi Minh City",
+        "addr:district": "Quận 7",
+        "addr:housenumber": "152",
+        "addr:street": "Nguyễn Lương Bằng",
+        "building": "yes",
+        "building:levels": "15",
+        "height": 45,
+        "name": "Broadway D"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+           [
+            [
+              106.7210592,
+              10.7295954
+            ],
+            [
+              106.7208128,
+              10.7294488
+            ],
+            [
+              106.7213745,
+              10.7285375
+            ],
+            [
+              106.7216121,
+              10.7286758
+            ],
+            [
+              106.7210592,
+              10.7295954
+            ]
+          ]
+        ]
+      },
+      "id": "way/189082649"
+    }
+  ]
+}

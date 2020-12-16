@@ -1,0 +1,80 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-ide",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2020-08-27T10:45:03Z",
+  "features": [
+    {
+     "type": "Feature",
+      "properties": {
+        "@id": "way/296377014",
+        "building": "apartments",
+        "name": "Star Hills Residence"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+           [
+            [
+              106.7258478,
+              10.7294776
+            ],
+            [
+              106.7262742,
+              10.7287941
+            ],
+            [
+              106.7270751,
+              10.7292764
+            ],
+            [
+              106.7266487,
+              10.7299599
+            ],
+            [
+              106.7258478,
+              10.7294776
+            ]
+          ]
+        ]
+      },
+      "id": "way/296377014"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/307665159",
+        "building": "apartments",
+        "name": "Star Hills Residence"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.7248191,
+              10.7288606
+            ],
+            [
+              106.7252608,
+              10.7281648
+            ],
+            [
+              106.726073,
+              10.7286625
+            ],
+            [
+              106.7256312,
+              10.7293583
+            ],
+            [
+              106.7248191,
+              10.7288606
+            ]
+          ]
+        ]
+      },
+      "id": "way/307665159"
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-ide",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2020-08-27T10:45:03Z",
+  "features": [
+    {
+     "type": "Feature",
+      "properties": {
+        "@id": "way/231055017",
+        "building": "yes",
+        "building:levels": "22",
+        "height": 66,
+        "name": "iBis Hotel",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.723294,
+              10.7308783
+            ],
+            [
+              106.723092,
+              10.7307576
+            ],
+            [
+              106.7235622,
+              10.7299826
+            ],
+            [
+              106.7237929,
+              10.7300933
+            ],
+            [
+              106.7238036,
+              10.7301407
+            ],
+            [
+              106.7233476,
+              10.7308783
+            ],
+            [
+              106.723294,
+              10.7308783
+            ]
+          ]
+        ]
+      },
+      "id": "way/231055017"
+    }
+  ]
+}

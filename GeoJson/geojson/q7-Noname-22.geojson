@@ -1,0 +1,83 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-ide",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2020-08-27T10:45:03Z",
+  "features": [
+    
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/362035155",
+        "building": "office",
+        "building:levels": "22",
+        "height": 66
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.7232746,
+              10.7267754
+            ],
+            [
+              106.7234765,
+              10.7264568
+            ],
+            [
+              106.7237895,
+              10.7266382
+            ],
+            [
+              106.7235905,
+              10.7269628
+            ],
+            [
+              106.7232746,
+              10.7267754
+            ]
+          ]
+        ]
+      },
+      "id": "way/362035155"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/362035158",
+        "building": "office",
+        "building:levels": "22",
+        "height": 66
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.7234841,
+              10.7264269
+            ],
+            [
+              106.7236807,
+              10.726143
+            ],
+            [
+              106.7239416,
+              10.726285
+            ],
+            [
+              106.723761,
+              10.7265965
+            ],
+            [
+              106.7234841,
+              10.7264269
+            ]
+          ]
+        ]
+      },
+      "id": "way/362035158"
+    }
+  ]
+}

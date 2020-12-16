@@ -1,0 +1,50 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-ide",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2020-08-27T10:45:03Z",
+  "features": [
+    {
+     "type": "Feature",
+      "properties": {
+        "@id": "way/188114173",
+        "addr:city": "Ho Chi Minh City",
+        "addr:district": "7",
+        "addr:housenumber": "3",
+        "addr:street": "Nguyễn Lương Bằng",
+        "building": "yes",
+        "building:levels": "15",
+        "height": 45,
+        "name": "Paragon"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+           [
+            [
+              106.721782,
+              10.7299153
+            ],
+            [
+              106.7215242,
+              10.7297552
+            ],
+            [
+              106.7219595,
+              10.7290785
+            ],
+            [
+              106.7222173,
+              10.7292386
+            ],
+            [
+              106.721782,
+              10.7299153
+            ]
+          ]
+        ]
+      },
+      "id": "way/188114173"
+    }
+  ]
+}
